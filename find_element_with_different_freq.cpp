@@ -1,3 +1,5 @@
+//https://www.geeksforgeeks.org/find-the-element-having-different-frequency-than-other-array-elements/
+
 #include<bits/stdc++.h>
 using namespace std;
 
